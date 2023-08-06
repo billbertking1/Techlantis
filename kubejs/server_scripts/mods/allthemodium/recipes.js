@@ -10,7 +10,7 @@ ServerEvents.recipes(event => {
 })
 
 ServerEvents.recipes(event => {
-	event.shaped('allthemodium:vibranium_allthemodium_alloy_ingot', [
+	event.shaped('allthemodium:vibranium_allthemodium_alloy_block', [
 		'UIU',
 		'UIU',
 		'UIU',
@@ -21,7 +21,7 @@ ServerEvents.recipes(event => {
 })
 
 ServerEvents.recipes(event => {
-	event.shaped('allthemodium:unobtainium_vibranium_alloy_ingot', [
+	event.shaped('allthemodium:unobtainium_vibranium_alloy_block', [
 		'UIU',
 		'UIU',
 		'UIU',
@@ -32,7 +32,7 @@ ServerEvents.recipes(event => {
 })
 
 ServerEvents.recipes(event => {
-	event.shaped('allthemodium:unobtainium_allthemodium_alloy_ingot', [
+	event.shaped('allthemodium:unobtainium_allthemodium_alloy_block', [
 		'UIU',
 		'UIU',
 		'UIU',
