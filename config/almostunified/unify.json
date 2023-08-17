@@ -1,12 +1,19 @@
 {
   "modPriorities": [
     "minecraft",
+    "alltheores",
+    "allthemodium",
     "kubejs",
-    "crafttweaker",
-    "create",
     "thermal",
+    "mekanism",
+    "create",
     "immersiveengineering",
-    "mekanism"
+    "ae2",
+    "biggerreactors",
+    "createaddition",
+    "silentgear",
+    "botania",
+    "ad_astra"
   ],
   "stoneStrata": [
     "stone",
