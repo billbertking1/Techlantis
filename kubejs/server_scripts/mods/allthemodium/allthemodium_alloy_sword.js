@@ -6,5 +6,5 @@ ServerEvents.recipes(event => {
 		], {
 			E: 'allthemodium:allthemodium_rod',
 			I: 'allthemodium:unobtainium_vibranium_alloy_ingot'
-		}
+		})
 })
