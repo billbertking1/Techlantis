@@ -1,5 +1,5 @@
 ServerEvents.recipes(e => {
-  e.recipes.createMechanicalCrafting('kubejs:refined_astral_radiance', [
+  e.recipes.createMechanicalCrafting('kubejs:astral_radiance', [
     'AAAAAAA',
     '  BCB  ',
     ' DCBCD ',
