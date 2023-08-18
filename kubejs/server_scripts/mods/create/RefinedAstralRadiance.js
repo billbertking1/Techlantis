@@ -9,6 +9,6 @@ ServerEvents.recipes(e => {
     R: 'mekanism:pellet_antimatter',
     I: 'allthemodium:unobtainium_allthemodium_alloy_ingot',
     O: 'create:extendo_grip',
-    U: 'kubejs:refined_astral_radiance'
+    U: 'minecraft:end_crystal'
   })
 })
