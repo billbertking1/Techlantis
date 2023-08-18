@@ -1,11 +1,11 @@
 ServerEvents.recipes(e => {
   e.recipes.createMechanicalCrafting('kubejs:refined_astral_radiance', [
     'AAAAAAA',
-    'BCB',
-    'DCBCD',
-    'EFHFE',
-    'GEFEG',
-    'GEG'
+    '  BCB  ',
+    ' DCBCD ',
+    ' EFHFE ',
+    ' GEFEG ',
+    '  GEG  '
   ], {
     A:'mekanism:pellet_antimatter',
     B:'silentgear:starmetal_dust',
